@@ -1,0 +1,46 @@
+.edit-form-wrapper {
+    background-color: #1a264a;
+    color: white;
+
+}
+
+.edit-header {
+    display: table;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+.edit-form-content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.group-button-wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.edit-form-content li {
+
+}
+
+input{
+    padding: 2em;
+    margin: 1em;
+}
+
+.edit-form-content form {
+    font-size: 20pt;
+}
+
+.edit-form-wrapper input {
+    padding: 1em;
+    font-size: 12pt;
+}
+
+.delete-user {
+    background-color: red;
+}

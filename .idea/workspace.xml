@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb9e77e2-462c-4e64-8e40-9094552f696c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../my_app/frontend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_app/frontend/src/Components/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_app/frontend/src/Components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_app/frontend/src/Components/OktaSignInWidget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_app/frontend/src/Components/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_app/frontend/src/Components/Protected.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_app/frontend/src/Media/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_app/frontend/src/Stylesheets/Admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_app/frontend/src/Stylesheets/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/okta_interview_backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/okta_interview_backend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/okta_frontend/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/okta_frontend/node_modules/.cache/.eslintcache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Ruby File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="4fb78e2a-7759-4b98-ba3f-22a4f864c6a9" />
+  </component>
+  <component name="ProjectId" id="1oUNyrJF0vP2WYjHmK0OezIhmOL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/okta_frontend" />
+      <recent name="$PROJECT_DIR$/okta_backend/app/controllers/api/v1" />
+      <recent name="$PROJECT_DIR$/okta_backend/app/controllers" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb9e77e2-462c-4e64-8e40-9094552f696c" name="Default Changelist" comment="" />
+      <created>1613337467574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613337467574</updated>
+      <workItem from="1613337469223" duration="1094000" />
+      <workItem from="1613338576659" duration="2578000" />
+      <workItem from="1613408255399" duration="86000" />
+      <workItem from="1613417576516" duration="2229000" />
+      <workItem from="1613419842821" duration="295000" />
+      <workItem from="1613420304018" duration="10592000" />
+      <workItem from="1613488228006" duration="52000" />
+      <workItem from="1613488289759" duration="3000" />
+      <workItem from="1613488295775" duration="9422000" />
+      <workItem from="1613509277081" duration="4665000" />
+      <workItem from="1613568370108" duration="864000" />
+      <workItem from="1613573943739" duration="892000" />
+      <workItem from="1613583675594" duration="8785000" />
+      <workItem from="1613658665154" duration="9852000" />
+      <workItem from="1613679743776" duration="15000" />
+      <workItem from="1613685170118" duration="758000" />
+      <workItem from="1614108071274" duration="246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

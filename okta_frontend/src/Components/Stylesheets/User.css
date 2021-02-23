@@ -1,0 +1,28 @@
+.user-container {
+    padding: .5em;
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgray;
+
+}
+
+.user-container {
+    padding: 1.5em;
+}
+
+.user-container:hover {
+    background-color: #1a264a;
+    color: white;
+    transition: .5s;
+}
+
+.user-page-wrapper {
+    display: flex;
+    width: 100vw;
+    flex-direction: column;
+    justify-content: stretch;
+}
+
+.edit-user-form {
+    transition: .5s;
+}

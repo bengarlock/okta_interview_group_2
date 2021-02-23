@@ -1,0 +1,36 @@
+#navbar-wrapper {
+    background-color: black;
+    display: flex;
+    width: 100vw;
+    justify-content: left;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+
+#navbar-wrapper li {
+    padding: 1em;
+    color: white;
+    display: inline;
+    font-size: 20pt;
+}
+
+#navbar-wrapper li:hover{
+    background-color: #1d1d40;
+    transition: .5s;
+}
+
+.navbar-brand {
+    font-size: 30pt;
+    color: aqua;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}

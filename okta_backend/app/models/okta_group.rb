@@ -1,0 +1,2 @@
+class OktaGroup < ApplicationRecord
+end

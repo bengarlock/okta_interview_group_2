@@ -1,0 +1,2 @@
+class OktaUser < ApplicationRecord
+end

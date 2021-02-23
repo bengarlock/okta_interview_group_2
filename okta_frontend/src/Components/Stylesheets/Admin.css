@@ -1,0 +1,63 @@
+.create-user-button {
+    padding: 2em;
+    text-align: center;
+    background-color: #656bab;
+    user-select: none;
+}
+
+.create-user-button:hover {
+    background-color: #1a264a;
+    color: white;
+    transition: .5s;
+}
+
+.create-user-form-wrapper {
+    width: 30em;
+    z-index: 4;
+    position: absolute;
+    background-color: #1a264a;
+    color: white;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+
+.menu-trigger-wrapper {
+    top: 0;
+    left:0;
+    z-index: 2;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#create-user-header {
+    padding: 2em;
+}
+
+.loading {
+    padding: 5em;
+    text-align: center;
+    color: white;
+    height: 50px;
+    width: 50px;
+    margin: 0 auto;
+    background-color: #1f2844;
+    animation:
+            pulse 3s ease infinite alternate,
+            nudge 5s linear infinite alternate;
+}
+
+@keyframes pulse {
+    0%, 10% {
+        transform: scale(.3);
+        background-color: #1f2844;
+        border-radius: 100%;
+    }
+    50% {
+        background-color: #1f2844;
+    }
+}
+
+
