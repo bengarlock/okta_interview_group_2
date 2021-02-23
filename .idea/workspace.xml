@@ -11,9 +11,6 @@
       <change afterPath="$PROJECT_DIR$/../my_app/frontend/src/Media/background.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../my_app/frontend/src/Stylesheets/Admin.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../my_app/frontend/src/Stylesheets/Home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/okta_interview_backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/okta_interview_backend.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/okta_frontend/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/okta_frontend/node_modules/.cache/.eslintcache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +79,7 @@
       <workItem from="1613679743776" duration="15000" />
       <workItem from="1613685170118" duration="758000" />
       <workItem from="1614108071274" duration="246000" />
+      <workItem from="1614108407610" duration="307000" />
     </task>
     <servers />
   </component>
